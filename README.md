@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Hamza Khan
 
-I'm a passionate software engineer with a focus on Mobile Application development. Currently, I'm working with Flutter Technology to create amazing cross-platform applications.
+I'm a Passionate Software Engineer with a focus on Mobile Application development. Currently, I'm working with Flutter Technology to create amazing cross-platform applications.
 
 ## 💻 Technologies & Tools
 
