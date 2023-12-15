@@ -1,12 +1,12 @@
-# Hi there! 👋 I'm Hamza
+# Hi there! 👋 I'm Hamza Khan
 
 I'm a passionate software engineer with a focus on Mobile Application development. Currently, I'm working with Flutter Technology to create amazing cross-platform applications.
 
 ## 💻 Technologies & Tools
 
-- **Languages:** Dart, Java, Kotlin
+- **Languages:** Dart, Java, Kotlin, C++, HTML, CSS, JavaScript
 - **Frameworks:** Flutter
-- **Version Control:** Git
+- **Version Control:** Git & Github
 - **IDE:** Android Studio, Visual Studio Code
 
 ## 🛠️ Skills
@@ -14,7 +14,7 @@ I'm a passionate software engineer with a focus on Mobile Application developmen
 - **Mobile App Development:** Flutter, Dart, Android (Java, Kotlin)
 - **UI/UX Design:** Material Design, Responsive Design
 - **Version Control:** Git, GitHub
-- **Database:** Firebase, SQLite
+- **Database:** Firebase, SQLite, SQL
 - **Software Development Life Cycle (SDLC):** Agile, Scrum
 - **Programming Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms
 
@@ -26,13 +26,13 @@ I'm always eager to learn and explore new technologies. Currently, I'm intereste
 
 - Mobile App Development
 - Flutter and Dart
-- [Any other specific interests]
+- Web Development
 
 ## 📫 Let's Connect
 
 Feel free to reach out if you have any questions or just want to connect!
 
-- LinkedIn: [Your LinkedIn Profile]([link-to-linkedin](https://www.linkedin.com/in/hamza-hamid-khan-8b4485225/))
+- LinkedIn: https://www.linkedin.com/in/hamza-hamid-khan-8b4485225/
 
 - Email: hamzahamidkhan10682@gmail.com
 
