@@ -33,7 +33,7 @@ I'm always eager to learn and explore new technologies. Currently, I'm intereste
 
 Feel free to reach out if you have any questions or just want to connect!
 
-- LinkedIn: https://www.linkedin.com/in/hamza-hamid-khan-8b4485225/
+- LinkedIn: https://www.linkedin.com/in/hamzahamidkhan
 
 - Email: hamzahamidkhan10682@gmail.com
 
