@@ -1,20 +1,20 @@
 # Hi there! 👋 I'm Hamza Khan
 
-I'm a Passionate Software Engineer with a focus on Mobile Application development. Currently, I'm working with Flutter Technology to create amazing cross-platform applications.
+I'm a Passionate Software Engineer with a focus on Cross Plateform Application development. Currently, I'm working with Flutter & Oracle Apex Technology to create amazing cross-platform applications.
 
 ## 💻 Technologies & Tools
 
-- **Languages:** Dart, Java, Kotlin, C++, HTML, CSS, JavaScript
-- **Frameworks:** Flutter
+- **Languages:** Dart, SQL, PL/SQL, HTML, CSS, JavaScript
+- **Frameworks:** Flutter & Oracle Apex
 - **Version Control:** Git & Github
 - **IDE:** Android Studio, Visual Studio Code
 
 ## 🛠️ Skills
 
-- **Mobile App Development:** Flutter, Dart, Android (Java, Kotlin)
+- **Cross Plateform Software Development:** Flutter, Dart, Oracle Apex
 - **UI/UX Design:** Material Design, Responsive Design
 - **Version Control:** Git, GitHub
-- **Database:** Firebase, SQLite, SQL
+- **Database:** Firebase, SQL, Oracle
 - **Software Development Life Cycle (SDLC):** Agile, Scrum
 - **Programming Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms
 
@@ -26,6 +26,7 @@ I'm always eager to learn and explore new technologies. Currently, I'm intereste
 
 - Mobile App Development
 - Flutter and Dart
+- Apex
 - Web Development
 
 ## 📫 Let's Connect
