@@ -39,6 +39,6 @@ Feel free to reach out if you have any questions or just want to connect!
 
 ## 🌟 Fun Fact
 
-i am Serious Boi
+i am Silent & Quiet Boy
 
 Thanks for stopping by! 😊
