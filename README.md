@@ -7,7 +7,7 @@ I'm a Passionate Software Engineer with a focus on Cross Plateform Application d
 - **Languages:** Dart, SQL, PL/SQL, HTML, CSS, JavaScript
 - **Frameworks:** Flutter & Oracle Apex
 - **Version Control:** Git & Github
-- **IDE:** Android Studio, Visual Studio Code
+- **IDE:** Android Studio, Visual Studio Code, PL/SQL Developer, Postman
 
 ## 🛠️ Skills
 
@@ -39,6 +39,6 @@ Feel free to reach out if you have any questions or just want to connect!
 
 ## 🌟 Fun Fact
 
-i am Silent & Quiet Boy
+i am keen & Quiet Boy
 
 Thanks for stopping by! 😊
